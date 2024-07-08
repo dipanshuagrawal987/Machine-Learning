@@ -5,3 +5,4 @@
 - ### 4. Train Test Split
 - ### 5. Scaling
 - ### 6. Transformation (Using PowerTransformer or FunctionTransformer)
+- ### 7. Binning and Binarization (If Applicable)
