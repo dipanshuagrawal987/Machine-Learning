@@ -6,3 +6,4 @@
 - ### 5. Scaling
 - ### 6. Transformation (Using PowerTransformer or FunctionTransformer)
 - ### 7. Binning and Binarization (If Applicable)
+- ### 8. Handling Missing values
